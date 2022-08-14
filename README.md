@@ -1,2 +1,2 @@
 # odin-recipes
-This project is the last part of the html section of the Odin Project
+This project is the last part of the html section of the Odin Project. Learned to work with basic git commands such as git status, add, and commit. Also, worked with html boilerplate and became more familiar on how to reference other files. Became comfortable with more html elements involving paragraphs, images, unordered and ordered lists, and headings.
